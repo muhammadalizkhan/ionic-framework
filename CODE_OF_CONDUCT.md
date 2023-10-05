@@ -18,6 +18,7 @@ diverse, inclusive, and healthy community.
 Examples of behavior that contributes to a positive environment for our
 community include the ability to:
 
+
 * Demonstrate empathy and kindness towards people
 * Be respectful of differing opinions, viewpoints, and experiences
 * Give and gracefully accept constructive feedback
